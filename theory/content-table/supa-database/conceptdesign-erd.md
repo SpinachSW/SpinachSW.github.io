@@ -1,4 +1,8 @@
-# ERD
+---
+description: 저장할 사용자 데이터를 ERD로 선별과정
+---
+
+# ConceptDesign-\[ERD]
 
 ## **<데이터 베이스 ERD** Entity Relationship Diagra&#x6D;**>**&#x20;
 
@@ -6,7 +10,7 @@
 
 <details>
 
-<summary>액터의 행위 분석</summary>
+<summary>액터의 행위 분석 ERD</summary>
 
 ![](<../../../.gitbook/assets/image (8).png>)&#x20;
 
@@ -14,35 +18,49 @@
 
 <details>
 
-<summary>추가나 삭제가 필요한 데이터 선별</summary>
+<summary>추가나 삭제가 필요한 데이터 선별 ERD</summary>
+
+![](<../../../.gitbook/assets/image (1).png>)
+
+</details>
+
+<details>
+
+<summary> 앤티티 생성 ERD</summary>
 
 ![](../../../.gitbook/assets/image.png)
 
 </details>
 
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-&#x20;  &#x20;
-
 {% hint style="info" %}
-asdf네모는 : 주체, 세모는 행위 \[태이블] | 동그라미는 데이터 \[엔티티] | PrimaryKey는 유일 값 | ForeignKey는 참조 값 |
+\[태이블]
+
+네모 : 주체
+
+세모 : 행위
+
+\[속성]&#x20;
+
+동그라미 : 데이터
+
+\[key]
+
+PrimaryKey:  유일 값 (ID는 DB에서 자동생성)
+
+ForeignKey는 참조 값
 {% endhint %}
 
 <details>
 
-<summary></summary>
+<summary> 태이블 수량적 관계 ERD(1:N, N:N, 1:1은 합체 가능)</summary>
 
-
+![](<../../../.gitbook/assets/image (9).png>)
 
 </details>
 
+{% hint style="info" %}
 
+{% endhint %}
 
 
 
@@ -78,11 +96,11 @@ asdf네모는 : 주체, 세모는 행위 \[태이블] | 동그라미는 데이�
 {% step %}
 ### 키의 설정
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 주문의 경우 데이터를 식별자로 쓸 수 있다면 사진과 같이 Private key로 올린다.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="133"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="133"><figcaption></figcaption></figure>
 
 하지만 같은 고객이 재주문한다면 회원아이디와 주문아이디로 구분할 수 없기 때문에 대리로 식별자를 사용해야한다.
 {% endstep %}

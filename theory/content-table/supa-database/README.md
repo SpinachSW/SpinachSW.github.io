@@ -15,13 +15,13 @@ icon: '5'
 {% step %}
 ### Concept Design
 
-asdf저장할 데이터를 선별과정
+저장할 사용자 데이터를 ERD로 선별과정
 {% endstep %}
 
 {% step %}
 ### Logical Design
 
-R-DB의 테이블 형태로 사상시키는 과정
+ERD에서 테이블의 종속, 키, 식별자 관계 분석\[R-DB생성] & 정규화
 {% endstep %}
 
 {% step %}
