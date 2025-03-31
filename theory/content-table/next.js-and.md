@@ -8,7 +8,7 @@ description: Additional Description of the Change in Fe and the Need for Next.js
 
 {% tabs %}
 {% tab title="Next.js의 필요성" %}
-기업형 프로젝트 ⇒ 규모커짐 ⇒ 업무로직에따른컴포넌트분할 =  Next.js사용
+기업형 프로젝트 ⇒ 규모커짐 ⇒ 업무로직에 따른 컴포넌트 분할 =  Next.js사용
 {% endtab %}
 
 {% tab title="Next.js" %}
