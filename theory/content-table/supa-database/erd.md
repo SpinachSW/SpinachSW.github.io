@@ -6,11 +6,49 @@
 
 <details>
 
-<summary>액터의 행위 </summary>
+<summary>액터의 행위 분석</summary>
 
 ![](<../../../.gitbook/assets/image (8).png>)&#x20;
 
 </details>
+
+<details>
+
+<summary>추가나 삭제가 필요한 데이터 선별</summary>
+
+![](../../../.gitbook/assets/image.png)
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+&#x20;  &#x20;
+
+{% hint style="info" %}
+asdf네모는 : 주체, 세모는 행위 \[태이블] | 동그라미는 데이터 \[엔티티] | PrimaryKey는 유일 값 | ForeignKey는 참조 값 |
+{% endhint %}
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+
+
+
+
+
+
+
 
 {% stepper %}
 {% step %}
@@ -40,7 +78,7 @@
 {% step %}
 ### 키의 설정
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 주문의 경우 데이터를 식별자로 쓸 수 있다면 사진과 같이 Private key로 올린다.
 
