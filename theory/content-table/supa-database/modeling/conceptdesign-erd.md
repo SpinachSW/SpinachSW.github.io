@@ -12,7 +12,7 @@ description: 저장할 사용자 데이터를 ERD로 선별과정
 
 <summary>액터의 행위 분석 ERD</summary>
 
-![](<../../../.gitbook/assets/image (8).png>)&#x20;
+![](<../../../../.gitbook/assets/image (8).png>)&#x20;
 
 </details>
 
@@ -20,7 +20,7 @@ description: 저장할 사용자 데이터를 ERD로 선별과정
 
 <summary>추가나 삭제가 필요한 데이터 선별 ERD</summary>
 
-![](<../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../../.gitbook/assets/image (1) (1).png>)
 
 </details>
 
@@ -28,7 +28,7 @@ description: 저장할 사용자 데이터를 ERD로 선별과정
 
 <summary> 앤티티 생성 ERD</summary>
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../../../.gitbook/assets/image (3).png>)
 
 </details>
 
