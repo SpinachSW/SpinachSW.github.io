@@ -98,7 +98,7 @@ ForeignKey는 참조 값
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-주문의 경우 데이터를 식별자로 쓸 수 있다면 사진과 같이 Private key로 올린다.
+주문의 경우 데이터를 식별자로 쓸 수 있다면 사진과 같이PrimaryKey key로 올린다.
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="133"><figcaption></figcaption></figure>
 

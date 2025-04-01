@@ -10,3 +10,7 @@
     * [ConceptDesign-\[ERD\]](theory/content-table/supa-database/conceptdesign-erd.md)
     * [Logical Design-\[R-DB\]](theory/content-table/supa-database/logical-design-r-db.md)
     * [Logical Design-\[정규화\]](theory/content-table/supa-database/logical-design.md)
+    * [Supabase](theory/content-table/supa-database/supabase/README.md)
+      * [제약 : 도메인](theory/content-table/supa-database/supabase/undefined.md)
+      * [제약 : 엔티티](theory/content-table/supa-database/supabase/undefined-1.md)
+      * [제약 : 릴레이션](theory/content-table/supa-database/supabase/undefined-2.md)

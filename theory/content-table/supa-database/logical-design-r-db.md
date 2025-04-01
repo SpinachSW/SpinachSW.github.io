@@ -44,14 +44,23 @@ description: ERD에서 테이블의 종속, 키, 식별자 관계 분석[R-DB생
 
 <details>
 
-<summary> </summary>
+<summary> 종속 테이블</summary>
 
-
+![](<../../../.gitbook/assets/image (12).png>)
 
 </details>
 
 {% hint style="info" %}
-
+1 : N경우 주체의 아이디를 종속된 테이블 FK로 설정
 {% endhint %}
 
-R-DB whd
+* 키의 종류
+
+<details>
+
+<summary>키의 종류</summary>
+
+![](<../../../.gitbook/assets/image (13).png>)
+
+</details>
+
