@@ -14,3 +14,4 @@
       * [제약 : 도메인](theory/content-table/supa-database/supabase/undefined.md)
       * [제약 : 엔티티](theory/content-table/supa-database/supabase/undefined-1.md)
       * [제약 : 릴레이션](theory/content-table/supa-database/supabase/undefined-2.md)
+  * [Next.js](theory/content-table/next.js.md)
