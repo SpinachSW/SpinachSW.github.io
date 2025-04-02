@@ -4,8 +4,8 @@
 
 * [Content Table](README.md)
   * [Next.js의 필요성과 &웹 발전과정](theory/content-table/next.js-and.md)
-  * [Model 데이터를 위한 스크립트 연산](theory/content-table/readme/README.md)
-    * [JS](theory/content-table/readme/js.md)
+  * [JS essential](theory/content-table/readme/README.md)
+    * [Truthy/Falsy 연산](theory/content-table/readme/truthy-falsy.md)
   * [supa-DataBase 구축](theory/content-table/supa-database/README.md)
     * [Modeling](theory/content-table/supa-database/modeling/README.md)
       * [ConceptDesign-\[ERD\]](theory/content-table/supa-database/modeling/conceptdesign-erd.md)
@@ -18,8 +18,9 @@
         * [제약 : 릴레이션](theory/content-table/supa-database/modeling/physical-design/undefined-2.md)
     * [Supabase](theory/content-table/supa-database/supabase/README.md)
       * [Page 1](theory/content-table/supa-database/supabase/page-1.md)
-  * [Next.js](theory/content-table/next.js/README.md)
+  * [Next.js](theory/content-table/next.js.md)
     * [Rest API](theory/content-table/next.js/rest-api.md)
+    * [WEB-제작 실습](theory/content-table/next.js/web.md)
 
 ***
 

@@ -1,5 +1,5 @@
 ---
-description: (Filter,Sort,Aggregate, …)
+description: Script operation to create Model data correctly
 icon: '1'
 layout:
   title:
@@ -14,5 +14,26 @@ layout:
     visible: true
 ---
 
-# Model 데이터를 위한 스크립트 연산
+# JS essential
 
+
+
+{% stepper %}
+{% step %}
+### Operator
+
+1. Truthy / Falsy 연산
+2. Array Collections
+3. Object 객체
+{% endstep %}
+
+{% step %}
+### Function
+
+
+{% endstep %}
+
+{% step %}
+### JSON(Array / Opject)
+{% endstep %}
+{% endstepper %}
