@@ -90,7 +90,13 @@ client\[(Angular,  Vue)MVC, (React)flux] --— server\[Dynamic]
 {% endstep %}
 
 {% step %}
-### Frontend : SSR
+### Frontend CSR : SSR
+
+CSR : 서버에서 번들을 주면 클라이언트 사이드에서 컨포넌트 렌더링이 일어남
+
+클라이언트가 데이터를 요청하긴함(그러면 API작동)
+
+SSR : 서버에서 렌더링이 일어나서 컴포넌트 번들이 클라이언트로 도착
 
 
 {% endstep %}
