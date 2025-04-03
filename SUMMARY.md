@@ -20,7 +20,9 @@
       * [Page 1](theory/content-table/supa-database/supabase/page-1.md)
   * [Next.js](theory/content-table/next.js.md)
     * [Rest API](theory/content-table/next.js/rest-api.md)
-    * [WEB-제작 실습](theory/content-table/next.js/web.md)
+    * [WEB-제작 실습](theory/content-table/next.js/web/README.md)
+      * [Untitled](theory/content-table/next.js/web/untitled.md)
+      * [supabase](theory/content-table/next.js/web/supabase.md)
 
 ***
 

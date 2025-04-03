@@ -6,7 +6,7 @@ icon: '6'
 
 install option
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Next&#x20;
 
@@ -51,7 +51,7 @@ Git commit할 때 환경변수는 gitignore에 명시할 것; 커밋 제외
 
 <summary>폴더예시</summary>
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 </details>
 
