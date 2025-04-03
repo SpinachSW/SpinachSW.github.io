@@ -3,7 +3,7 @@
 ## Theory
 
 * [Content Table](README.md)
-  * [Next.js의 필요성과 &웹 발전과정](theory/content-table/next.js-and.md)
+  * [Next.js의 필요성과 & 웹 발전 과정](theory/content-table/next.js-and.md)
   * [JS essential](theory/content-table/readme/README.md)
     * [Truthy/Falsy 연산](theory/content-table/readme/truthy-falsy.md)
   * [supa-DataBase 구축](theory/content-table/supa-database/README.md)
@@ -18,11 +18,14 @@
         * [제약 : 릴레이션](theory/content-table/supa-database/modeling/physical-design/undefined-2.md)
     * [Supabase](theory/content-table/supa-database/supabase/README.md)
       * [Page 1](theory/content-table/supa-database/supabase/page-1.md)
-  * [Next.js](theory/content-table/next.js.md)
-    * [Rest API](theory/content-table/next.js/rest-api.md)
-    * [WEB-제작 실습](theory/content-table/next.js/web/README.md)
-      * [Untitled](theory/content-table/next.js/web/untitled.md)
-      * [supabase](theory/content-table/next.js/web/supabase.md)
+  * [클린아키텍처](theory/content-table/undefined/README.md)
+    * [Page 2](theory/content-table/undefined/page-2.md)
+    * [3 계층 아키텍처 구조](theory/content-table/undefined/3.md)
+  * [Next.js 프로젝트 연습](theory/content-table/next.js/README.md)
+    * [Next.js, supabase 환경 세팅 in vsc](theory/content-table/next.js/next.js-supabase-in-vsc.md)
+    * [API sample](theory/content-table/next.js/api-sample.md)
+    * [Next\[CSR\]-작성 예제](theory/content-table/next.js/next-csr/README.md)
+      * [Untitled](theory/content-table/next.js/next-csr/untitled.md)
 
 ***
 
