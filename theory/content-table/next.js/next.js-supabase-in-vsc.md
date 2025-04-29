@@ -2,7 +2,7 @@
 
 install option
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Next&#x20;
 
@@ -47,7 +47,7 @@ Git commit할 때 환경변수는 gitignore에 명시할 것; 커밋 제외
 
 <summary>폴더예시</summary>
 
-![](<../../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1).png>)
 
 </details>
 
@@ -73,7 +73,7 @@ next 기본형 + 클린 아키텍처 adepter 제외
 
 <summary>루트 app</summary>
 
-![](<../../../../.gitbook/assets/image (3).png>)
+![](<../../../.gitbook/assets/image (3).png>)
 
 </details>
 
@@ -81,7 +81,7 @@ next 기본형 + 클린 아키텍처 adepter 제외
 
 <summary>클린 아키텍처 루트 application / usecases</summary>
 
-![](<../../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4).png>)
 
 </details>
 
@@ -89,7 +89,7 @@ next 기본형 + 클린 아키텍처 adepter 제외
 
 <summary>domain 클린 아키텍처 repository</summary>
 
-![](<../../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5).png>)
 
 </details>
 
@@ -97,7 +97,7 @@ next 기본형 + 클린 아키텍처 adepter 제외
 
 <summary>클린 아키텍처 infra repositories</summary>
 
-![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 </details>
 
@@ -105,7 +105,7 @@ next 기본형 + 클린 아키텍처 adepter 제외
 
 <summary>클린 아키텍처 ? 유틸 수퍼베이스 서버, 그외</summary>
 
-![](<../../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8).png>)
 
 </details>
 

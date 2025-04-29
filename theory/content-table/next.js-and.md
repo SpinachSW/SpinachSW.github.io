@@ -2,7 +2,7 @@
 description: Additional Description of the Change in Fe and the Need for Next.js
 ---
 
-# Next.js의 필요성과 &웹 발전과정
+# CSR
 
 
 

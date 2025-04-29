@@ -10,7 +10,7 @@ description: ERD에서 테이블의 종속, 키, 식별자 관계 분석[R-DB생
 
 <summary> 기존 ERD의 사용관리 논리 정리[R-DB]</summary>
 
-![](<../../../../../../.gitbook/assets/image (10).png>)
+![](<../../../../../.gitbook/assets/image (10).png>)
 
 </details>
 
@@ -22,7 +22,7 @@ description: ERD에서 테이블의 종속, 키, 식별자 관계 분석[R-DB생
 
 <summary>종속을 알기 위한 태이블 수량적 관계 R-DB</summary>
 
-![](<../../../../../../.gitbook/assets/image (11).png>)
+![](<../../../../../.gitbook/assets/image (11).png>)
 
 </details>
 
@@ -46,7 +46,7 @@ description: ERD에서 테이블의 종속, 키, 식별자 관계 분석[R-DB생
 
 <summary> 종속 테이블</summary>
 
-![](<../../../../../../.gitbook/assets/image (12).png>)
+![](<../../../../../.gitbook/assets/image (12).png>)
 
 </details>
 
@@ -60,7 +60,7 @@ description: ERD에서 테이블의 종속, 키, 식별자 관계 분석[R-DB생
 
 <summary>키의 종류</summary>
 
-![](<../../../../../../.gitbook/assets/image (13).png>)
+![](<../../../../../.gitbook/assets/image (13).png>)
 
 </details>
 

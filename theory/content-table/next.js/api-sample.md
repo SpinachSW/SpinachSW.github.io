@@ -86,7 +86,7 @@ app 하위에 layout.tsx생성 (AI children 형식으로 레이아웃 만들어�
 
 <summary>layout</summary>
 
-![](<../../../../.gitbook/assets/image (14).png>)
+![](<../../../.gitbook/assets/image (14).png>)
 
 </details>
 
@@ -98,7 +98,7 @@ app 하위에 layout.tsx생성 (AI children 형식으로 레이아웃 만들어�
 
 <summary>file</summary>
 
-![](<../../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 </details>
 
