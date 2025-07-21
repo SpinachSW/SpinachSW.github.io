@@ -1,30 +1,10 @@
 ---
-description: List the order in learn
+description: 본 컨텐츠는 각 언어의 강의나 공식문서 내용을 복습한 것입니다.
 ---
 
-# Content Table
+# Content table
 
-1. Javascript 심화
-2. About FE Tech
+무엇을 하든지 항상 기초 위에서 하면 좋습니다. 기초가 탄탄하면 복잡한 개념도 더 쉽게 이해할 수 있고, 문제를 해결할 때도 본질에 집중할 수 있기 때문입니다.
 
-2-1. Web Publising
+제가 정리한 내용들은 다른 분들이 까먹고 지나갔을 법한 내용들, 혹은 다시 상기하면 좋겠다 싶은 내용들을 중심으로 구성했습니다.
 
-2-2. Dom
-
-2-3 MVC/flux
-
-2-4. SSR (MVC/flux)
-
-3. Typescript\*강의
-
-3-2. Typescript\*개인 공부
-
-4. Next.js
-5. supa-DataBase구축
-
-5-1. Modeling : CopceptERD, Logical\[r-db,정규화], Physical\[제약]
-
-6. 클린 아키텍처
-7. Next를 이용한 CSR프로젝트 연습하기
-
-&#x20;
